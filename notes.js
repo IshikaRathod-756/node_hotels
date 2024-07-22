@@ -4,7 +4,7 @@ var age = 24;
 const addNumber = function(a,b){
     return a+b;
 }
-console.log("Hey i am ishika , i am learning to new techonology to use the server and backend to the website to manages. the name is node.js")
+console.log("Hey ")
 
 module.exports = {
     age,
